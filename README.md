@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Schofer</h1>
 <h3 align="center">I'm learning to become a programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schofermorningstar&label=Profile%20views&color=0e75b6&style=flat" alt="schofermorningstar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schofermorningstar" alt="schofermorningstar" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
 
@@ -31,6 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schofermorningstar&show_icons=true&locale=en&layout=compact" alt="schofermorningstar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schofermorningstar&show_icons=true&locale=en" alt="schofermorningstar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schofermorningstar&" alt="schofermorningstar" /></p>
-
