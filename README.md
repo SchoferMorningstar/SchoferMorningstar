@@ -2,21 +2,19 @@
 <h3 align="center">I'm learning to become a programmer.</h3>
 
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **nothung**
+- 🤝 I’m looking for help with **nothing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SchoferMorningstar](https://github.com/SchoferMorningstar)
 
-- 📝 I regularly write articles on [https://schofer.com.pl/blog](https://schofer.com.pl/blog)
+- 💬 Ask me about **Anything you want. Just be ready for not getting an answer.**
 
-- 💬 Ask me about **Better not ask me about anything**
-
-- 📫 How to reach me **adamgwiazdon@schofer.com.pl**
+- 📫 How to reach me **schoferstd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
