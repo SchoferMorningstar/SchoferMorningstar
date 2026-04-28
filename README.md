@@ -1,12 +1,12 @@
-## Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
 
-Hi — I'm Schofer. I build cross‑platform apps, creative simulations and developer tooling.  
+I'm Schofer. I build cross‑platform apps, creative simulations and developer tooling.  
 
-—developer • maker • lifelong learner—
+<div align="center">— developer • maker • lifelong learner —</div>
 
 ## About Me
 
-I’m an independent developer focused on web and mobile applications, developer tooling and small experimental projects. I publish open-source config repos (Neovim / LunarVim), build desktop & mobile apps (GitNote), and maintain my personal site.
+I’m an independent developer focused on web and mobile applications, developer tooling and small experimental projects.
 
 💡 Currently working on:
 
@@ -14,19 +14,7 @@ I’m an independent developer focused on web and mobile applications, developer
 - XTMP — an extensible terminal tool (currently not released) 
 - Improving my knowledge and technical skills
 
-## Skills & Technologies
-
-dart,flutter,react,tailwind,vite,js,html,css,nodejs,neovim,lua,p5js,python,git,github,linux,npm,materialui,androidstudio
-
 ## GitHub Stats
-
-Key stats
-
-- Public repositories: 12
-- Followers: 0
-- Following: 0
-
-Badges & cards
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SchoferMorningstar&show_icons=true&theme=default)
 
