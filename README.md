@@ -26,4 +26,4 @@ I’m an independent developer focused on web and mobile applications, developer
 
 ## Connect with Me
 
-✉️ E-mail: gwiazdonadam@proton.me
+✉️ E-mail: gwiazdonadam@pm.me
