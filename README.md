@@ -10,20 +10,19 @@ I’m an independent developer focused on web and mobile applications, developer
 
 💡 Currently working on:
 
-- GitNote — cross-platform note app with GitHub sync (recent v1.1.0 updates and releases)
-- XTMP — an extensible terminal tool (currently not released) 
+- TaleVault — ethical platform for writers and readers
 - Improving my knowledge and technical skills
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SchoferMorningstar&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sch0fer&show_icons=true&theme=default)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchoferMorningstar&layout=compact&theme=default)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sch0fer&layout=compact&theme=default)
 
 ![Public repos](https://img.shields.io/badge/Public%20Repos-12-blue)
-![Followers](https://img.shields.io/github/followers/SchoferMorningstar?label=Followers)
+![Followers](https://img.shields.io/github/followers/sch0fer?label=Followers)
 ![Following](https://img.shields.io/badge/Following-0-lightgrey)
 
 ## Connect with Me
 
-✉️ E-mail: contact.gwiazdonadam@proton.me
+✉️ E-mail: gwiazdonadam@pm.me
